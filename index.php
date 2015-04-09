@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo'hello ussd'
+        echo'hello ussd';
         // put your code here
         ?>
     </body>
